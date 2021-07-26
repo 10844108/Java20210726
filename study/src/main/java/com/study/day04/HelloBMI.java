@@ -1,7 +1,5 @@
 package com.study.day04;
 
-
-
 public class HelloBMI {
 
 	public static void main(String[] args) {

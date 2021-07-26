@@ -1,7 +1,5 @@
 package com.study.day01;
 
-import javax.swing.plaf.basic.BasicInternalFrameTitlePane.SystemMenuBar;
-
 public class HelloWorld {
 
 	public static void main(String[] args) {

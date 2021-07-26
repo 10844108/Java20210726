@@ -1,7 +1,5 @@
 package com.study.day01;
 
-import java.util.Scanner;
-
 public class HelloBMI {
 
 	public static void main(String[] args) {	

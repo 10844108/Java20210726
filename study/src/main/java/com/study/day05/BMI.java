@@ -5,6 +5,9 @@ public class BMI {
 	private double height;
 	private double weight;
 	private double bmi;
+	public BMI() {
+		
+	}
 	public BMI(String name, double height, double weight) {
 		super();
 		this.name = name;
